@@ -1,5 +1,30 @@
+---
+layout: default
+title: Gallery
+---
+
+<h2>Debug</h2>
+<p>If you can see this text, Jekyll is rendering this page.</p>
+
+<p><b>Items found:</b>
+{% if site.data.gallery %}
+  {{ site.data.gallery | size }}
+{% else %}
+  0 (site.data.gallery is missing)
+{% endif %}
+</p>
+
+<p><b>Test image direct:</b></p>
+<img src="{{ 'assets/img/full/CW.png' | relative_url }}" style="max-width:300px;">
+<hr>
+
 <div class="grid">
-  {% for it in site.data.gallery %}
-    {% include card.html title=it.title tag=it.tag thumb=it.thumb full=it.full %}
-  {% endfor %}
+  {% if site.data.gallery %}
+    {% for it in site.data.gallery %}
+      <div style="border:1px solid #ddd; padding:8px;">
+        <div>{{ it.title }}</div>
+        <img src="{{ it.thumb | relative_url }}" style="max-width:200px;">
+      </div>
+    {% endfor %}
+  {% endif %}
 </div>
