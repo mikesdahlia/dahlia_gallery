@@ -1,4 +1,7 @@
-<div class="card">
-  <img src="{{ include.thumb }}" alt="{{ include.title }}">
-  <div>{{ include.title }}</div>
-</div>
+<a class="card" href="{{ include.full | relative_url }}">
+  <img src="{{ include.thumb | relative_url }}" alt="{{ include.title }}">
+  <div class="pad">
+    <div class="meta">{{ include.tag }}</div>
+    <div class="title">{{ include.title }}</div>
+  </div>
+</a>
