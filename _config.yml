@@ -1,0 +1,7 @@
+title: Dahlia Gallery
+markdown: Mike
+
+collections:
+  dahlias:
+    output: true
+    permalink: /dahlias/:name/
