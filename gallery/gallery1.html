@@ -3,5 +3,8 @@ layout: default
 title: Gallery
 ---
 
-<h1>My Dahlia Gallery</h1>
-<p>Gallery will go here 🌱</p>
+<div class="grid">
+  {% for it in site.data.gallery %}
+    {% include card.html title=it.title tag=it.tag thumb=it.thumb full=it.full %}
+  {% endfor %}
+</div>
