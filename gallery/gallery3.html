@@ -6,7 +6,14 @@ title: Gallery
 {% if site.data.gallery %}
   <p><b>Total items:</b> {{ site.data.gallery | size }}</p>
 
-  {% assign items = site.data.gallery | sort_natural: "title" %}
+  {% assign items = site.data.gallery | sort: "title" %}
+
+  <pre style="font-size:12px; line-height:1.2; padding:10px; border:1px solid #ddd;">
+SORT CHECK:
+{% for it in items %}
+- {{ it.title }}
+{% endfor %}
+  </pre>
 
   <div class="grid">
     {% for it in items %}
@@ -16,3 +23,5 @@ title: Gallery
 {% else %}
   <p><b>Error:</b> _data/gallery.yml not found (site.data.gallery is missing)</p>
 {% endif %}
+
+
