@@ -37,6 +37,11 @@
   tag: "Bonhoeffer"
   thumb: "/assets/img/full/Bonhoeffer.png"
   full:  "/assets/img/full/Bonhoeffer.png"
+  
+- title: "Bracken Aquarius"
+  tag: "Bracken_Aquarius"
+  thumb: "/assets/img/full/Bracken_Aquarius.png"
+  full:  "/assets/img/full/Bracken_Aquarius.png"
 
 - title: "Brian's Dream"
   tag: "Brian's_Dream"
@@ -103,6 +108,12 @@
   thumb: "/assets/img/full/Devon_Image.png"
   full:  "/assets/img/full/Devon_Image.png"
 
+- title: "Devon Salmon"
+  tag: "Devon_Salmon"
+  thumb: "/assets/img/full/Devon_Salmon.png"
+  full:  "/assets/img/full/Devon_Salmon.png"
+
+  
 - title: "DS Doris"
   tag: "DS Doris"
   thumb: "/assets/img/full/DS_Doris.png"
@@ -112,7 +123,12 @@
   tag: "Edge_of_Gold"
   thumb: "/assets/img/full/Edge_of_Gold.png"
   full:  "/assets/img/full/Edge_of_Gold.png"
-
+  
+- title: "Fairytale"
+  tag: "Fairytale"
+  thumb: "/assets/img/full/Fairytale.png"
+  full:  "/assets/img/full/Fairytale.png"
+  
 - title: "Fawn"
   tag: "Fawn"
   thumb: "/assets/img/full/Fawn.png"
@@ -347,6 +363,11 @@
   tag: "Roga"
   thumb: "/assets/img/full/Roga.png"
   full:  "/assets/img/full/Roga.png"
+
+- title: "Romance"
+  tag: "Romance"
+  thumb: "/assets/img/full/Romance.png"
+  full:  "/assets/img/full/Romance.png"
 
 - title: "SB's KA Choice"
   tag: "SB's_KA_Choice"
