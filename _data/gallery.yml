@@ -388,6 +388,11 @@
   thumb: "/assets/img/full/Levis_Cantaloup.png"
   full: "/assets/img/full/Levis_Cantaloup.png"
 
+- title: "Levi's Confessor"
+  tag: "Levis_confessor"
+  thumb: "/assets/img/full/Levis_confessor.png"
+  full: "/assets/img/full/Levis_confessor.png"
+  
 - title: "Levi's Creamsicle"
   tag: "Levis_Creamsicle"
   thumb: "/assets/img/full/Levis_Creamsicle.png"
@@ -438,6 +443,11 @@
   thumb: "/assets/img/full/Levis_Rosa.png"
   full: "/assets/img/full/Levis_Rosa.png"
 
+- title: "Levi's Sanguine"
+  tag: "Levis_Sanguine"
+  thumb: "/assets/img/full/Levis_Sanguine.png"
+  full: "/assets/img/full/Levis_Sanguine.png"
+  
 - title: "Levi’s Sunfire"
   tag: "Levis_Sunfire"
   thumb: "/assets/img/full/Levis_Sunfire.png"
@@ -463,6 +473,11 @@
   thumb: "/assets/img/full/Moana.png"
   full: "/assets/img/full/Moana.png"
 
+- title: "Monet Glory"
+  tag: "Monet_Glory"
+  thumb: "/assets/img/full/Monet_Glory.png"
+  full: "/assets/img/full/Monet_Glory.png"
+  
 - title: "Montana Centennial"
   tag: "Montana_Centennial"
   thumb: "/assets/img/full/Montana_Centennial.png"
