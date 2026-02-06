@@ -103,6 +103,11 @@
   thumb: "/assets/img/full/Creme_Diane.png"
   full:  "/assets/img/full/Creme_Diane.png"
 
+- title: "Devon Apollo"
+  tag: "Devon_Apollo"
+  thumb: "/assets/img/full/Devon_Apollo.png"
+  full:  "/assets/img/full/Devon_Apollo.png"
+  
 - title: "Devon Image"
   tag: "Devon_Image"
   thumb: "/assets/img/full/Devon_Image.png"
