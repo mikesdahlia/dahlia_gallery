@@ -1,3 +1,13 @@
+- title: "20th Ave Dedicada"
+  tag: "20thAveDedicada"
+  thumb: "/assets/img/full/20thAveDedicada.png"
+  full:  "/assets/img/full/20thAveDedicada.png"
+  
+- title: "20th Ave Memory"
+  tag: "20thAveMemory"
+  thumb: "/assets/img/full/20thAveMemory.png"
+  full:  "/assets/img/full/20thAveMemory.png"
+
 - title: "20th Ave Old Major"
   tag: "20thAveOldMajor"
   thumb: "/assets/img/full/20thAveOldMajor.png"
@@ -83,6 +93,11 @@
   thumb: "/assets/img/full/Carlos_Watermelon.png"
   full: "/assets/img/full/Carlos_Watermelon.png"
 
+- title: "Chateau de la Bourdaisiere"
+  tag: "Chateau_de_la_Bourdaisiere"
+  thumb: "/assets/img/full/Chateau_de_la_Bourdaisiere.png"
+  full:  "/assets/img/full/Chateau_de_la_Bourdaisiere.png"
+  
 - title: "Christopher Taylor"
   tag: "CTaylor"
   thumb: "/assets/img/full/CTaylor.png"
@@ -243,6 +258,11 @@
   thumb: "/assets/img/full/Hollyhill_Golden_Glow.png"
   full: "/assets/img/full/Hollyhill_Golden_Glow.png"
 
+- title: "Hollyhill Leda"
+  tag: "Hollyhill_Leda"
+  thumb: "/assets/img/full/Hollyhill_Leda.png"
+  full:  "/assets/img/full/Hollyhill_Leda.png"
+  
 - title: "Hollyhill Pink Parfait"
   tag: "Hollyhill_Pink_Parfait"
   thumb: "/assets/img/full/Hollyhill_Pink_Parfait.png"
@@ -257,7 +277,12 @@
   tag: "Hollyhill_Pink_Tigress"
   thumb: "/assets/img/full/Hollyhill_Pink_Tigress.png"
   full: "/assets/img/full/Hollyhill_Pink_Tigress.png"
-
+  
+- title: "Hollyhill Tiger Rose"
+  tag: "Hollyhill_tiger_rose"
+  thumb: "/assets/img/full/Hollyhill_tiger_rose.png"
+  full:  "/assets/img/full/Hollyhill_tiger_rose.png"
+  
 - title: "Hy Beacon"
   tag: "Hy_Beacon"
   thumb: "/assets/img/full/Hy_Beacon.png"
@@ -367,12 +392,22 @@
   tag: "Levis_Melon"
   thumb: "/assets/img/full/Levis_Melon.png"
   full: "/assets/img/full/Levis_Melon.png"
-
+  
+- title: "Levi's Nara"
+  tag: "Levis_Nara"
+  thumb: "/assets/img/full/Levis_Nara.png"
+  full:  "/assets/img/full/Levis_Nara.png"
+  
 - title: "Levi's Pink Globe"
   tag: "Levis_Pink_Globe"
   thumb: "/assets/img/full/Levis_Pink_Globe.png"
   full: "/assets/img/full/Levis_Pink_Globe.png"
 
+- title: "Levi's Pink Gold"
+  tag: "Levis_Pink_Gold"
+  thumb: "/assets/img/full/Levis_Pink_Gold.png"
+  full:  "/assets/img/full/Levis_Pink_Gold.png"
+  
 - title: "Levi's Revenant"
   tag: "Levis_Revenant"
   thumb: "/assets/img/full/Levis_Revenant.png"
@@ -468,6 +503,11 @@
   thumb: "/assets/img/full/SBs_KA_Choice.png"
   full: "/assets/img/full/SBs_KA_Choice.png"
 
+- title: "Scrunchie"
+  tag: "Scrunchie"
+  thumb: "/assets/img/full/Scrunchie.png"
+  full:  "/assets/img/full/Scrunchie.png"
+  
 - title: "Seedling (Unnamed Orange)"
   tag: "Seedling_unnamed_orange"
   thumb: "/assets/img/full/Seedling_unnamed_orange.png"
