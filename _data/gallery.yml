@@ -23,6 +23,11 @@
   thumb: "/assets/img/full/AC_Twisp.png"
   full: "/assets/img/full/AC_Twisp.png"
 
+- title: "Alloway Cottage"
+  tag: "miss_photo"
+  thumb: "/assets/img/full/miss_photo.png"
+  full: "/assets/img/full/miss_photo.png"
+
 - title: "Amelia Bedelia"
   tag: "Amelia_Bedelia"
   thumb: "/assets/img/full/Amelia_Bedelia.png"
