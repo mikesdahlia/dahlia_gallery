@@ -527,7 +527,12 @@
   tag: "Scrunchie"
   thumb: "/assets/img/full/Scrunchie.png"
   full:  "/assets/img/full/Scrunchie.png"
-  
+
+- title: "Seedling Queen of Saigon"
+  tag: "Seedling_Queen_of_Saigon"
+  thumb: "/assets/img/full/Seedling_Queen_of_Saigon.png"
+  full: "/assets/img/full/Seedling_Queen_of_Saigon.png"
+
 - title: "Seedling (Unnamed Orange)"
   tag: "Seedling_unnamed_orange"
   thumb: "/assets/img/full/Seedling_unnamed_orange.png"
