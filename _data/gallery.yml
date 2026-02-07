@@ -68,6 +68,11 @@
   thumb: "/assets/img/full/BQ_Innate.png"
   full: "/assets/img/full/BQ_Innate.png"
 
+- title: "BQ Mojo"
+  tag: "BQ_mojo"
+  thumb: "/assets/img/full/BQ_mojo.png"
+  full: "/assets/img/full/BQ_mojo.png"
+
 - title: "Bracken Aquarius"
   tag: "Bracken_Aquarius"
   thumb: "/assets/img/full/Bracken_Aquarius.png"
