@@ -63,6 +63,11 @@
   thumb: "/assets/img/full/Bonhoeffer.png"
   full: "/assets/img/full/Bonhoeffer.png"
 
+- title: "BQ Compare"
+  tag: "BQ_Compare"
+  thumb: "/assets/img/full/BQ_Compare.png"
+  full: "/assets/img/full/BQ_Compare.png"
+  
 - title: "BQ Innate"
   tag: "BQ_Innate"
   thumb: "/assets/img/full/BQ_Innate.png"
