@@ -82,6 +82,11 @@
   tag: "BQ_blush"
   thumb: "/assets/img/full/BQ_blush.png"
   full: "/assets/img/full/BQ_blush.png"
+
+- title: "BQ Cream"
+  tag: "BQ_Cream"
+  thumb: "/assets/img/full/BQ_cream.png"
+  full: "/assets/img/full/BQ_cream.png"
   
 - title: "BQ Compare"
   tag: "BQ_Compare"
