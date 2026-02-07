@@ -183,6 +183,12 @@
   thumb: "/assets/img/full/Creme_Diane.png"
   full: "/assets/img/full/Creme_Diane.png"
 
+- title: "Czarny Charakter"
+  tag: "CZ"
+  thumb: "/assets/img/full/CZ.png"
+  full: "/assets/img/full/CZ.png"
+
+
 - title: "Dapex Pink Delight"
   tag: "Dapex_Pink_Delight"
   thumb: "/assets/img/full/Dapex_Pink_Delight.png"
@@ -322,7 +328,7 @@
   tag: "Hollyhill_Leda"
   thumb: "/assets/img/full/Hollyhill_Leda.png"
   full:  "/assets/img/full/Hollyhill_Leda.png"
-  
+
 - title: "Hollyhill Pink Parfait"
   tag: "Hollyhill_Pink_Parfait"
   thumb: "/assets/img/full/Hollyhill_Pink_Parfait.png"
@@ -342,6 +348,11 @@
   tag: "Hollyhill_tiger_rose"
   thumb: "/assets/img/full/Hollyhill_tiger_rose.png"
   full:  "/assets/img/full/Hollyhill_tiger_rose.png"
+
+- title: "Hollyhill Tigress"
+  tag: "Hollyhill_Tigress"
+  thumb: "/assets/img/full/Hollyhill_Tigress.png"
+  full:  "/assets/img/full/Hollyhill_Tigress.png"
   
 - title: "Hy Beacon"
   tag: "Hy_Beacon"
@@ -654,6 +665,11 @@
   thumb: "/assets/img/full/WBs_Lavender_Ice.png"
   full: "/assets/img/full/WBs_Lavender_Ice.png"
 
+- title: "Who? Me"
+  tag: "who_me"
+  thumb: "/assets/img/full/who_me.png"
+  full: "/assets/img/full/who_me.png"
+  
 - title: "Winkie Kestrel"
   tag: "Winkie_Kestrel"
   thumb: "/assets/img/full/Winkie_Kestrel.png"
