@@ -63,6 +63,11 @@
   thumb: "/assets/img/full/Bonhoeffer.png"
   full: "/assets/img/full/Bonhoeffer.png"
 
+- title: "BQ Blush"
+  tag: "BQ_blush"
+  thumb: "/assets/img/full/BQ_blush.png"
+  full: "/assets/img/full/BQ_blush.png"
+  
 - title: "BQ Compare"
   tag: "BQ_Compare"
   thumb: "/assets/img/full/BQ_Compare.png"
