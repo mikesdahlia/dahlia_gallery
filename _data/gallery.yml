@@ -2,6 +2,11 @@
   tag: "20thAveDedicada"
   thumb: "/assets/img/full/20thAveDedicada.png"
   full:  "/assets/img/full/20thAveDedicada.png"
+
+- title: "20th Ave Gwen"
+  tag: "20thAvegwen"
+  thumb: "/assets/img/full/miss_photo.png"
+  full: "/assets/img/full/miss_photo.png"
   
 - title: "20th Ave Memory"
   tag: "20thAveMemory"
@@ -13,6 +18,16 @@
   thumb: "/assets/img/full/20thAveOldMajor.png"
   full: "/assets/img/full/20thAveOldMajor.png"
 
+- title: "20th Ave Pink Cloud"
+  tag: "20thAvepc"
+  thumb: "/assets/img/full/miss_photo.png"
+  full: "/assets/img/full/miss_photo.png"
+
+- title: "20th Ave Softer Peach"
+  tag: "20thAvesp"
+  thumb: "/assets/img/full/miss_photo.png"
+  full: "/assets/img/full/miss_photo.png"
+  
 - title: "20th Ave Tranquility"
   tag: "20thAveTranquility"
   thumb: "/assets/img/full/20thAveTranquility.png"
