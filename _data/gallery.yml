@@ -78,6 +78,11 @@
   thumb: "/assets/img/full/Bonhoeffer.png"
   full: "/assets/img/full/Bonhoeffer.png"
 
+- title: "BQ Alan"
+  tag: "BQ_Alan"
+  thumb: "/assets/img/full/BQ_Alan.png"
+  full: "/assets/img/full/BQ_Alan.png"
+  
 - title: "BQ Blush"
   tag: "BQ_blush"
   thumb: "/assets/img/full/BQ_blush.png"
