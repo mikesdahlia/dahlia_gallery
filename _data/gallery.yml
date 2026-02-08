@@ -263,7 +263,12 @@
   tag: "Florelie_Antique"
   thumb: "/assets/img/full/Florelie_Antique.png"
   full: "/assets/img/full/Florelie_Antique.png"
-
+  
+- title: "Florelie Fruit Tingle"
+  tag: "Florelie_fruit_tingle"
+  thumb: "/assets/img/full/Florelie_fruit_tingle.png"
+  full: "/assets/img/full/Florelie_fruit_tingle.png"
+  
 - title: "Florelie Kindness"
   tag: "Florelie_Kindness"
   thumb: "/assets/img/full/Florelie_Kindness.png"
@@ -654,6 +659,11 @@
   tag: "Stellar_R"
   thumb: "/assets/img/full/Stellar_R.png"
   full: "/assets/img/full/Stellar_R.png"
+
+- title: "Truly Scrumptious"
+  tag: "Truly_Scrumptious"
+  thumb: "/assets/img/full/Truly_Scrumptious.png"
+  full: "/assets/img/full/Truly_Scrumptious.png"
 
 - title: "Ursula Klukova"
   tag: "Ursula_Klukova"
