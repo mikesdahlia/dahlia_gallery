@@ -278,6 +278,11 @@
   thumb: "/assets/img/full/Ferncliff_Honeycomb.png"
   full: "/assets/img/full/Ferncliff_Honeycomb.png"
 
+- title: "FiFi"
+  tag: "FiFi"
+  thumb: "/assets/img/full/FiFi.png"
+  full: "/assets/img/full/FiFi.png"
+  
 - title: "Florelie Antique"
   tag: "Florelie_Antique"
   thumb: "/assets/img/full/Florelie_Antique.png"
