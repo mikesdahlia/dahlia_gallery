@@ -337,7 +337,12 @@
   tag: "Hapet_Rose_Dream"
   thumb: "/assets/img/full/Hapet_Rose_Dream.png"
   full: "/assets/img/full/Hapet_Rose_Dream.png"
-
+  
+- title: "Hollyhill Bewitched"
+  tag: "HollyhillBewitched"
+  thumb: "/assets/img/full/Hollyhill_bewitched.png"
+  full:  "/assets/img/full/Hollyhill_bewitched.png"
+  
 - title: "Hollyhill BP"
   tag: "Hollyhill_BP"
   thumb: "/assets/img/full/Hollyhill_BP.png"
@@ -448,6 +453,11 @@
   thumb: "/assets/img/full/Lees_Mauve_Guava.png"
   full: "/assets/img/full/Lees_Mauve_Guava.png"
 
+- title: "Lee Scarlet macaw"
+  tag: "LeeSmacaw"
+  thumb: "/assets/img/full/Lee_Smacaw.png"
+  full:  "/assets/img/full/Lee_Smacaw.png"
+  
 - title: "Lee's Swiss Miss"
   tag: "Lees_Swiss_Miss"
   thumb: "/assets/img/full/Lees_Swiss_Miss.png"
@@ -599,6 +609,11 @@
   thumb: "/assets/img/full/Opal.png"
   full: "/assets/img/full/Opal.png"
 
+- title: "Pam Howden"
+  tag: "PamHowden"
+  thumb: "/assets/img/full/pam_howden.png"
+  full:  "/assets/img/full/pam_howden.png"
+  
 - title: "Peach Macaron"
   tag: "Peach_Macaron"
   thumb: "/assets/img/full/Peach_Macaron.png"
@@ -704,6 +719,11 @@
   thumb: "/assets/img/full/WBs_Lavender_Ice.png"
   full: "/assets/img/full/WBs_Lavender_Ice.png"
 
+- title: "Westeron Lilian"
+  tag: "WesteronLilian"
+  thumb: "/assets/img/full/Westeron_lilian.png"
+  full:  "/assets/img/full/Westeron_lilian.png"
+  
 - title: "Who? Me"
   tag: "who_me"
   thumb: "/assets/img/full/who_me.png"
