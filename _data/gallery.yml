@@ -649,6 +649,11 @@
   thumb: "/assets/img/full/RV_Sherbet_Punch.png"
   full: "/assets/img/full/RV_Sherbet_Punch.png"
 
+- title: "Sandia Bliss"
+  tag: "SandiaBliss"
+  thumb: "/assets/img/full/SandiaBliss.png"
+  full:  "/assets/img/full/SandiaBliss.png"
+  
 - title: "Sandia Claire"
   tag: "Sandia_Claire"
   thumb: "/assets/img/full/Sandia_Claire.png"
